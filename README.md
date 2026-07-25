@@ -33,13 +33,6 @@ Before MARL, that same instinct for understanding systems from the inside shows 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProValarous&show_icons=true&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProValarous&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
-
 ---
 
 <p align="center"><sub>Open an issue on a project you find here if something catches your interest.</sub></p>
